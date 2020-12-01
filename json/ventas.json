@@ -1,0 +1,22 @@
+[
+    [
+        {
+            "id": 0,
+            "nombre": "Antonio Cant\u00f3",
+            "articulo": "teclado gaming",
+            "cantidad": "2",
+            "precio": "3400",
+            "total": 6800
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "nombre": "Antonio Cant\u00f3",
+            "articulo": "teclado gaming",
+            "cantidad": "2",
+            "precio": "3400",
+            "total": 6800
+        }
+    ]
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "nombre": "Antonio",
+        "apellidos": "Cant\u00f3",
+        "dni": "74735135q",
+        "fecha": "2020-12-04",
+        "email": "elton3t@gmail.com",
+        "password": "e"
+    },
+    {
+        "id": 1,
+        "nombre": "Antonio",
+        "apellidos": "Cant\u00f3",
+        "dni": "12345678x",
+        "fecha": "2020-12-05",
+        "email": "elpar@gmail.com",
+        "password": "e"
+    }
+]

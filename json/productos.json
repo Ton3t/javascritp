@@ -1,0 +1,21 @@
+[
+    {
+        "ref": "teclado",
+        "descripcion": "teclado gaming",
+        "familia": "teclados",
+        "precio": "3400"
+    },
+    {
+        "ref": "raton",
+        "descripcion": "raton gaming",
+        "familia": "ratones",
+        "precio": "20"
+    },
+    null,
+    {
+        "ref": "monitores",
+        "descripcion": "monitor gaming 22",
+        "familia": "ordenadores",
+        "precio": "300"
+    }
+]

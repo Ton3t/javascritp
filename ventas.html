@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <script src="./app/appVentas.js" defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/style.css">
+
+    <title>Ventas</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="formulario">
+            <h1>Ventas</h1>
+            <label for="idclientes">Cliente:
+                <select name="clientes" id="idclientes">
+                    <option value="">Selecciona un cliente</option>
+                </select>
+            </label>
+            <br>
+            <label for="idarticulo">Artículos:
+                <select name="articulo" id="idarticulo">
+                    <option value="">Selecciona un articulo</option>
+                </select>
+            </label>
+            <br>
+            <label for="idcantidad">Cantidad:
+                <input type="number" name="cantidad" id="idcantidad">
+            </label>
+            
+                <button id="idcarro">Agregar al carrito</button>
+                <button><a href="index.html">Atrás</a></button>
+            
+            
+            <table class="tabla" id="tabla">
+                <tr>
+                    <th>ID</th><th>CLIENTE</th><th>ARTICULO</th><th>PRECIO</th><th>CANTIDAD</th><th>TOTAL</th>
+                </tr>
+            </table>
+            <table class="tabla" id="tablatotal">
+                <tr>
+                    <th colspan="7" id="factotaliti">Total</th><th id="idtuto"></th>
+                </tr>
+            </table>
+            <div id="idcomprar">
+
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
